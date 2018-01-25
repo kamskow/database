@@ -11,6 +11,6 @@
 - 26.01.2018
 	- [repozytorium git](https://bitbucket.org/pabloo99/jdbc_examples)
 
-	- [prezentacja 1]()
+	- [prezentacja 1](https://bitbucket.org/pabloo99/database_programming/src/72b4d64f81d660cacb535b91de4518da7cf7ccc1/26.01.2018/prezentacja%201.pdf?at=master&fileviewer=file-view-default)
 	
-	- [zestaw 1]()
+	- [zestaw 1](https://bitbucket.org/pabloo99/database_programming/src/72b4d64f81d660cacb535b91de4518da7cf7ccc1/26.01.2018/zestaw%201.pdf?at=master&fileviewer=file-view-default)
