@@ -19,7 +19,7 @@
 - 29.01.2018
 	- [repozytorium git](https://bitbucket.org/pabloo99/hibernate-examples)
 
-	- [prezentacja 2]()
+	- [prezentacja 2](https://bitbucket.org/pabloo99/database_programming/src/c235edf1f54a68f18cc16c3d5e32403edbc32ecf/29.01.2018/prezentacja%202.pdf?at=master&fileviewer=file-view-default)
 	
-	- [zestaw 2]()
+	- [zestaw 2](https://bitbucket.org/pabloo99/database_programming/src/c235edf1f54a68f18cc16c3d5e32403edbc32ecf/29.01.2018/zestaw%202.pdf?at=master&fileviewer=file-view-default)
 	
